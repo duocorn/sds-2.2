@@ -1,5 +1,6 @@
 # sds-2.2
-## NOTE: I had a problem with my keyboard (some of the key caps have fallen off but I still got the essay in on time!) so here are some breif comments on the code
+NOTE: I had a problem with my keyboard (some of the key caps have fallen off but I still got the essay in on time!) so here are some brief comments on the code
+
 The first box: All libraries that will be used imported in the beginning 
 
 2nd box : reimporting (?) matplotlib because I had some issues

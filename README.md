@@ -1,5 +1,5 @@
 # sds-2.2
-NOTE: I had a problem with my keyboard (some of the key caps have fallen off but I still got the essay in on time!) so here are some brief comments on the code
+NOTE: I had a problem with importing the notebook with all the comments so here are some comments on the code
 
 The first box: All libraries that will be used imported in the beginning 
 
